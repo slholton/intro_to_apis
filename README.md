@@ -12,7 +12,10 @@ Learning to use js to get data and display it in the DOM!
 - [MDN Promise Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 - [...]()
 
-### FETCH
+### Fetch
 ```javascript
 // BASIC fetch usage
-fetch()
+fetch(<url>)
+    .then(<cb to process the data>)
+    .then(<cb to use the data>)
+```
