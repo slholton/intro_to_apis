@@ -3,7 +3,6 @@ Learning to use js to get data and display it in the DOM!
 
 
 ### TODO:
-* Fetch
 * Async
 * Apis
 * REST
@@ -12,3 +11,8 @@ Learning to use js to get data and display it in the DOM!
 - [MDN Fetch Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - [MDN Promise Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 - [...]()
+
+### FETCH
+```javascript
+// BASIC fetch usage
+fetch()
